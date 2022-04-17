@@ -1,0 +1,8 @@
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject6\CourseAndStudentsProject\CourseAndStudentsProject\bin\Debug\CourseAndStudentsProject.exe.config
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject6\CourseAndStudentsProject\CourseAndStudentsProject\bin\Debug\CourseAndStudentsProject.exe
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject6\CourseAndStudentsProject\CourseAndStudentsProject\bin\Debug\CourseAndStudentsProject.pdb
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject6\CourseAndStudentsProject\CourseAndStudentsProject\obj\Debug\CourseAndStudentsProject.csproj.AssemblyReference.cache
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject6\CourseAndStudentsProject\CourseAndStudentsProject\obj\Debug\CourseAndStudentsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject6\CourseAndStudentsProject\CourseAndStudentsProject\obj\Debug\CourseAndStudentsProject.csproj.CoreCompileInputs.cache
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject6\CourseAndStudentsProject\CourseAndStudentsProject\obj\Debug\CourseAndStudentsProject.exe
+C:\Users\Bhanu Singh\source\repos\PracticeProgramProject\FileHandlingProject6\CourseAndStudentsProject\CourseAndStudentsProject\obj\Debug\CourseAndStudentsProject.pdb
